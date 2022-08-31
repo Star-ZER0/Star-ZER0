@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![](https://github-readme-stats.vercel.app/api?username=Star-ZER0)](https://github.com/Star-ZER0)
+
 <!--
 **Star-ZER0/Star-ZER0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

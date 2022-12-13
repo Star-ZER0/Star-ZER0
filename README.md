@@ -1,18 +1,16 @@
 ### Hi there 👋
 
-[![](https://github-readme-stats.vercel.app/api?username=Star-ZER0)](https://github.com/Star-ZER0)
+[![Star-ZER0's github stats](https://github-readme-stats.vercel.app/api?username=Star-ZER0&locale=cn)](https://github.com/Star-ZER0)
 
-<!--
-**Star-ZER0/Star-ZER0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=Star-ZER0&locale=cn)](https://github.com/Star-ZER0)
 
-Here are some ideas to get you started:
+[个人博客 star0.cc](https://star0.cc)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://t.me/Star_ZER0" target="_blank">
+  <img alt="Telegram@Star_ZER0" width="35px" src="https://telegram.org/img/t_logo.svg" />
+</a>
+<a href="https://space.bilibili.com/59400856" target="_blank">
+  <img alt="bilibili@星澪Star_ZER0" width="35px" src="https://www.bilibili.com/favicon.ico" />
+</a>
+</p>

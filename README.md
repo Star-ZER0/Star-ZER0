@@ -4,6 +4,8 @@
 
 [![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=Star-ZER0&locale=cn)](https://github.com/Star-ZER0)
 
+[![Star-ZER0](https://count.getloli.com/get/@Star-ZER0)](https://github.com/Star-ZER0)
+
 [个人博客 star0.cc](https://star0.cc)
 
 <p align="center">
